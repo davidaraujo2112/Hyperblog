@@ -39,3 +39,9 @@ font-size: 20px;
     padding: 1em;
 
 }
+
+#footer {
+    backgroung: #777;
+    color: white;
+    text-aling: center;
+}
